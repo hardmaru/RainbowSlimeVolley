@@ -1,0 +1,1 @@
+train_slime.py --outdir slime --seed 612 --gpu 0 --env SlimeVolleySurvivalNoFrameskip-v0
